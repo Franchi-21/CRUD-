@@ -1,0 +1,52 @@
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\SqlCommand - Insert.exe
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\SqlCommand - Insert.deps.json
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\SqlCommand - Insert.runtimeconfig.json
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\SqlCommand - Insert.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\SqlCommand - Insert.pdb
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.AssemblyInfo.cs
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.csproj.CopyComplete
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\refint\SqlCommand - Insert.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.pdb
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand - Insert.genruntimeconfig.cache
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\ref\SqlCommand - Insert.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand___Insert.FormMostrarDatos.resources
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand___Insert.FormBorrarRegistro.resources
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\ConexionSQL.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\ConexionSQL.pdb
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand___Insert.FormModificarRegistro.resources
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\obj\Debug\net6.0-windows\SqlCommand___Insert.IngresoDatos.resources

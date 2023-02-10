@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>Producto.cs</name>
+            <path>SqlCommand - Insert\Producto.cs</path>
+            <absolutePath>C:\Users\franc\Desktop\Cursos programacion\TutorialesProgramacionYa\C#\SqlCommand - Insert\SqlCommand - Insert\Producto.cs</absolutePath>
+            <position>
+              <line>5</line>
+              <column>19</column>
+              <lineHash>pJhtKHljtrzKwChF1n1UYmSwil5tpkhEqVjl8ltlNGw=</lineHash>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+        <startupProjectsInitialized>false</startupProjectsInitialized>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>
